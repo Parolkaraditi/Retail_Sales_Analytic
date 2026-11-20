@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Excel temporary files
+~$*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db

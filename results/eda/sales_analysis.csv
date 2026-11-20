@@ -1,0 +1,8 @@
+order_id,product_id,quantity,unit_price,customer_id,order_date,customer_name,city,gender,product_name,category,revenue
+1001,201,1,55000,101,2026-01-05,Aarav Sharma,Mumbai,Male,Laptop,Electronics,55000
+1001,202,2,500,101,2026-01-05,Aarav Sharma,Mumbai,Male,Mouse,Accessories,1000
+1002,203,1,1200,102,2026-01-08,Priya Patel,Pune,Female,Keyboard,Accessories,1200
+1003,204,1,18000,103,2026-02-10,Rahul Verma,Indore,Male,Monitor,Electronics,18000
+1004,205,2,2000,104,2026-02-15,Sneha Joshi,Bhopal,Female,Headphones,Accessories,4000
+1005,201,1,55000,105,2026-03-01,Rohan Mehta,Delhi,Male,Laptop,Electronics,55000
+1006,202,3,500,106,2026-03-05,Ananya Singh,Nashik,Female,Mouse,Accessories,1500
