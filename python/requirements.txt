@@ -1,7 +1,9 @@
+streamlit
 pandas
 numpy
 matplotlib
 seaborn
+plotly
 sqlalchemy
 pymysql
 python-dotenv
